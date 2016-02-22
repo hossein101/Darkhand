@@ -226,7 +226,7 @@ function create_config( )
     "leave_ban",
     "admin"
     },
-    sudo_users = {194573293,144132967,0(our_id)},--Sudo users
+    sudo_users = {194573293,144132967},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Darkhand - Open Source
